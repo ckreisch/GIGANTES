@@ -8,17 +8,30 @@ Gigantes
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Science
 
    Goals
    Publications
+   Applications
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Data
+   
+   Description
+   Download
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Other
+
+   People
+   Citation
+   License
+   Help
+
 
 .. image:: voidfield.jpg
    :width: 49 %
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
