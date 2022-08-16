@@ -1,7 +1,7 @@
 Applications
 ============
 
-With the release of the GIGANTES void catalogs suite we provide some example applications (see Kreisch et al. 2022 `2107.02304 <https://arxiv.org/abs/2107.02304>`_). These are straightforward applications showcasing GIGANTES' power and opening the way to exciting projects to perform with GIGANTES. 
+With the release of the GIGANTES void catalogs suite we provide some example applications (see Kreisch et al. 2022, `2107.02304 <https://arxiv.org/abs/2107.02304>`_). These are straightforward applications showcasing GIGANTES' power and opening the way to exciting projects to perform with GIGANTES. 
 
 Application 1: cosmological information in void statistics
 ~~~~~~~~~~~~~

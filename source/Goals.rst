@@ -2,19 +2,24 @@ Goals
 ====================================
 
 Cosmic voids are a recent tool for the extraction of cosmological information from large scale-surveys.
-Theory development to prepare void analysis requires large void numbers. Since voids are arguably the largest regions in the Universe, huge simulation volumes are necessary. 
+Theory development to prepare void analysis requires large void numbers. 
 
-GIGANTES, built on the massive Quijote simulation suite aims to provide enough voids to study different void statistics. Examples of powerful void statistics are:
+Voids are arguably the largest regions in the Universe, therefore huge simulation volumes are necessary. 
 
--the void-galaxy cross-correlation function,
--the void size function,
--the void auto-correlation function.
+GIGANTES, built on the massive Quijote simulation suite, aims to provide enough voids to study different void statistics. Examples of powerful void statistics are:
+
+*the void-galaxy cross-correlation function,
+
+*the void size function,
+
+*the void auto-correlation function.
 
 GIGANTES will allow to: 
 
--foster research on void evolution by providing a large number of voids at different redshifts and in different cosmologies;
--explore the information content of the different void statistics. See :ref:`applications`.
--push the exploration for cosmology of a number of void properties (examples include ellipticities, density constrasts).
+*foster research on void evolution by providing a large number of voids at different redshifts and in different cosmologies;
+*explore the information content of the different void statistics. See :ref:`applications`.
+*push the exploration for cosmology of a number of void properties (examples include ellipticities, density constrasts).
   
 
-Finally, GIGANTES is a massive dataset for intensive machine learning exploration of void statistics. Instrumental to find a connection between void statistics and the value of the cosmological parameters are the GIGANTES void catalogs from simulations from different cosmological models (build from the QUIJOTE latin-hypercube). See :ref:`applications`.
+Finally, GIGANTES is a massive dataset for intensive machine learning exploration of void statistics. 
+The GIGANTES void catalogs built from simulations with different cosmological models (the QUIJOTE latin-hypercube) are instrumental to find a connection between void statistics and the value of cosmological parameters. See :ref:`applications`.
