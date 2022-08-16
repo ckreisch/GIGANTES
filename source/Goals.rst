@@ -7,14 +7,18 @@ Theory development to prepare void analysis requires large void numbers.
 Voids are arguably the largest regions in the Universe, therefore huge simulation volumes are necessary. 
 
 GIGANTES, built on the massive Quijote simulation suite, aims to provide enough voids to study different void statistics. Examples of powerful void statistics are:
- -the void-galaxy cross-correlation function,
- -the void size function,
-  - the void auto-correlation function.
+ - the void-galaxy cross-correlation function,
+
+ - the void size function,
+
+ - the void auto-correlation function.
 
 GIGANTES will allow to: 
 
   - foster research on void evolution by providing a large number of voids at different redshifts and in different cosmologies;
+
   - explore the information content of the different void statistics. See :ref:`applications`.
+
   - push the exploration for cosmology of a number of void properties (examples include ellipticities, density constrasts).
   
 
