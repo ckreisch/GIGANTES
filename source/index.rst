@@ -23,7 +23,9 @@ Giganges provides the tools for intensive machine learning exploration of void s
    :maxdepth: 2
    :caption: Data
    
-   Data
+   Description
+   Download
+   Organization
 
 .. toctree::
    :maxdepth: 2
