@@ -22,7 +22,7 @@ Download
 The data can be accessed through `globus <https://www.globus.org/>`__:
 
 - Log in into `globus <https://www.globus.org/>`__ (create an account if you dont have one).
-- To **access** the data, type: Gigantes (or with this `link <https://app.globus.org/file-manager?origin_id=6b4101f6-8b6e-11ec-8fde-dfc5b31adbac&origin_path=%2F>`_).
+- To **access** the data, type: Gigantes (or with this `link <https://app.globus.org/>`_).
 
 .. image:: globus2.jpg
    :width: 69 %
