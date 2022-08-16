@@ -12,7 +12,7 @@ Relying on a Fisher forecast from the GIGANTES dataset we show that void statist
 The figure below shows constraints on cosmological parameters from the voids (void size function, void-halo, and void-void correlation functions) and halos (halo mass function, halo auto-correlation function), and the combined power of voids and halos. 
 
 .. image:: all_constraints.jpg
-   :width: 49 %
+   :width: 90 %
 
 Application 2: likelihood-free inference on the void size function 
 ~~~~~~~~~~~~~
@@ -20,7 +20,7 @@ This application is an example of a machine learning application to the GIGANTES
 The goal of this application is to predict the mean and standard deviation of the posterior from the void size function. 
 
 .. image:: LFI_VSF_Omega_m.jpg
-   :width: 49 %
+   :width: 90 %
 
 Application 3: void finder sensitivity to shape adds information 
 ~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ For most of the cosmological parameters considered in this paper the void size f
 These results showcase for the first time that even for non-shape based applications, such as the void size function, shape plays a strong role in determining the quality of constraints.
 
 .. image:: sphere_v_vide.jpg
-   :width: 49 %
+   :width: 90 %
 
 
 The large number of void catalogs in GIGANTES allows many other scientific applications. 
