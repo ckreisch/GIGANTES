@@ -2,11 +2,9 @@ Goals
 ====================================
 
 Cosmic voids are a recent tool for the extraction of cosmological information from large scale-surveys.
-Theory development to prepare void analysis requires large void numbers. 
-
-Voids are arguably the largest regions in the Universe, therefore huge simulation volumes are necessary. 
-
+Theory development to prepare void analysis requires large void numbers. Voids are arguably the largest regions in the Universe, therefore huge simulation volumes are necessary.
 GIGANTES, built on the massive Quijote simulation suite, aims to provide enough voids to study different void statistics. Examples of powerful void statistics are:
+
  - the void-galaxy cross-correlation function,
 
  - the void size function,
