@@ -5,22 +5,26 @@ If you use data from GIGANTES in your work, please consider citing the `Gigantes
 
 ::
 
-   @ARTICLE{Gigantes2022,
+  @ARTICLE{2022ApJ...935..100K,
        author = {{Kreisch}, Christina D. and {Pisani}, Alice and {Villaescusa-Navarro}, Francisco and {Spergel}, David N. and {Wandelt}, Benjamin D. and {Hamaus}, Nico and {Bayer}, Adrian E.},
-       title = "{The GIGANTES dataset: precision cosmology from voids in the machine learning era}",
-       journal = {arXiv e-prints},
-       keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
-       year = 2021,
-       month = jul,
-       eid = {arXiv:2107.02304},
-       pages = {arXiv:2107.02304},
-       archivePrefix = {arXiv},
+        title = "{The GIGANTES Data Set: Precision Cosmology from Voids in the Machine-learning Era}",
+      journal = {\apj},
+     keywords = {N-body simulations, Cosmology, Large-scale structure of the universe, Voids, Cosmic web, Computational astronomy, Cosmological parameters, Cosmological parameters from large-scale structure, Cosmological neutrinos, Astrostatistics, 1083, 343, 902, 1779, 330, 293, 339, 340, 338, 1882, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = 2022,
+        month = aug,
+       volume = {935},
+       number = {2},
+          eid = {100},
+        pages = {100},
+          doi = {10.3847/1538-4357/ac7d4b},
+archivePrefix = {arXiv},
        eprint = {2107.02304},
-       primaryClass = {astro-ph.CO},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2021arXiv210702304K},
-       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-   }
-   
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022ApJ...935..100K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+ 
 
 ::
 

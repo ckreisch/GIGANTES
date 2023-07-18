@@ -1,12 +1,10 @@
 Organization
 ============
 
-The GIGANTES data is organized in different folders:
-
-[Details about folder]
-
+The GIGANTES data is organized in different folders, following the structure of the QUIJOTE simulations. The main folders are: fiducial, fiducial_ZA, fisher and latin_hypercube. In each folder it is possible to find a subfolder for each redshift considered, and void catalogs can be found there, labelled sample_[considered_simulation]. 
 
 Each void catalog has the following structure (VIDE void catalog structure):
+
 - sample_info.txt: Small text file which lists some basic info of the sample
 - zobov_slice_[sample_name].dat: Binary file with the galaxy positions, RA, Dec, redshift, and unique catalog ID. Note that this file contains all particles in the particular sample, not just void particles.
 - voidDesc_[all,central]_[sample_name].out: ASCII file with void indices and basic void properties in ZOBOV-normalized units.
