@@ -16,10 +16,10 @@ GIGANTES will allow to:
 
   - foster research on void evolution by providing a large number of voids at different redshifts and in different cosmologies;
 
-  - explore the information content of the different void statistics. See :ref:`Applications`.
+  - explore the information content of the different void statistics (see :ref:`Applications`);
 
   - push the exploration for cosmology of a number of void properties (examples include ellipticities, density constrasts).
   
 
 Finally, GIGANTES is a massive dataset for intensive machine learning exploration of void statistics. 
-The GIGANTES void catalogs built from simulations with different cosmological models (the QUIJOTE latin-hypercube) are instrumental to find a connection between void statistics and the value of cosmological parameters. See :ref:`applications`.
+The GIGANTES void catalogs built from simulations with different cosmological models (the QUIJOTE latin-hypercube) are instrumental to find a connection between void statistics and the value of cosmological parameters (see :ref:`applications`).
