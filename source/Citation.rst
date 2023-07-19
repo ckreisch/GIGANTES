@@ -17,7 +17,7 @@ If you use data from GIGANTES in your work, please consider citing the `Gigantes
           eid = {100},
         pages = {100},
           doi = {10.3847/1538-4357/ac7d4b},
-archivePrefix = {arXiv},
+          archivePrefix = {arXiv},
        eprint = {2107.02304},
  primaryClass = {astro-ph.CO},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022ApJ...935..100K},
