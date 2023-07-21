@@ -1,7 +1,7 @@
 Organization
 ============
 
-The GIGANTES data is organized in different folders, following the structure of the QUIJOTE simulations. The main folders are: fiducial, fiducial_ZA, fisher and latin_hypercube. In each folder it is possible to find a subfolder for each redshift considered, and void catalogs can be found there, labelled sample_[considered_simulation]. 
+The Gigantes data is organized in different folders, following the structure of the Quijote simulations. The main folders are: fiducial, fiducial_ZA, fisher and latin_hypercube. In each folder it is possible to find a subfolder for each redshift considered, and void catalogs can be found there, labelled sample_[considered_simulation]. 
 
 Each void catalog has the following structure (VIDE void catalog structure):
 

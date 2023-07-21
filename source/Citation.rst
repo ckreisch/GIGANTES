@@ -1,7 +1,7 @@
 Citation
 ========
 
-If you use data from GIGANTES in your work, please consider citing the `Gigantes paper <https://arxiv.org/abs/2107.02304>`_ and the `Quijote paper <https://arxiv.org/abs/1909.05273>`_. Thank you!
+If you use data from Gigantes in your work, please consider citing the `Gigantes paper <https://arxiv.org/abs/2107.02304>`_ and the `Quijote paper <https://arxiv.org/abs/1909.05273>`_. Thank you!
 
 ::
 
@@ -22,7 +22,7 @@ If you use data from GIGANTES in your work, please consider citing the `Gigantes
  primaryClass = {astro-ph.CO},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022ApJ...935..100K},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+   }
 
  
 

@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-GIGANTES
+Gigantes
 ====================================
-GIGANTES is the most extensive and realistic void catalog suite ever released, containing over 1 billion cosmic voids covering a volume larger than the observable Universe, more than 20 TB of data, and created by running the void finder VIDE on QUIJOTE’s halo simulations. 
-GIGANTES provides the tools for intensive machine learning exploration of void statistics.
+Gigantes is the most extensive and realistic void catalog suite ever released, containing over 1 billion cosmic voids covering a volume larger than the observable Universe, more than 20 TB of data, and created by running the void finder VIDE on Quijote’s halo simulations. 
+Gigantes provides the tools for intensive machine learning exploration of void statistics.
 
 .. image:: voidfield.jpg
    :width: 49 %
