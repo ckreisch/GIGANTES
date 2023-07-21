@@ -5,7 +5,7 @@
 
 Gigantes
 ====================================
-Gigantes is the most extensive and realistic void catalog suite ever released, containing over 1 billion cosmic voids covering a volume larger than the observable Universe, more than 20 TB of data, and created by running the void finder VIDE on the halos from the `Quijote <https://quijote-simulations.readthedocs.io/en/latest/index.html>`_ simulations. 
+Gigantes is the most extensive and realistic void catalog suite ever released, containing over 1 billion cosmic voids covering a volume larger than the observable Universe, more than 20 TB of data, and created by running the void finder VIDE on the halos from the `Quijote simulations <https://quijote-simulations.readthedocs.io/en/latest/index.html>`_. 
 Gigantes provides the tools for intensive machine learning exploration of void statistics.
 
 .. image:: voidfield.jpg
