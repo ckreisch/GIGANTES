@@ -7,7 +7,7 @@ Application 1: cosmological information in void statistics
 ~~~~~~~~~~~~~
 We aim to answer the following question: Do voids carry additional information? 
 The question of whether voids, defined by relying on the halo (or galaxy) distribution, carry additional cosmological information with respect to traditional tools based on the halo (or galaxy) distribution, such as the two-point correlation function or the halo-mass function, has been a debated topic.
-Relying on a Fisher forecast from the GIGANTES dataset we show that void statistics allow to constrain regions of the parameter space that would otherwise remain unconstrained. 
+Relying on a Fisher forecast from the Gigantes dataset we show that void statistics allow to constrain regions of the parameter space that would otherwise remain unconstrained. 
 
 The figure below shows constraints on cosmological parameters from the voids (void size function, void-halo, and void-void correlation functions) and halos (halo mass function, halo auto-correlation function), and the combined power of voids and halos. 
 
@@ -16,7 +16,7 @@ The figure below shows constraints on cosmological parameters from the voids (vo
 
 Application 2: likelihood-free inference on the void size function 
 ~~~~~~~~~~~~~
-This application is an example of a machine learning application to the GIGANTES dataset. Our goal is to perform likelihood-free inference from one of the most important summary statistics associated to cosmic voids: the void size function. In order to carry out this task, we need many examples from different cosmological models in order to be able to extract unique patterns that allow us to find a connection between the void size function and the value of the cosmological parameters.
+This application is an example of a machine learning application to the Gigantes dataset. Our goal is to perform likelihood-free inference from one of the most important summary statistics associated to cosmic voids: the void size function. In order to carry out this task, we need many examples from different cosmological models in order to be able to extract unique patterns that allow us to find a connection between the void size function and the value of the cosmological parameters.
 The goal of this application is to predict the mean and standard deviation of the posterior from the void size function. 
 
 .. image:: LFI_VSF_Omega_m.jpg
@@ -35,4 +35,4 @@ These results showcase for the first time that even for non-shape based applicat
    :width: 90 %
 
 
-The large number of void catalogs in GIGANTES allows many other scientific applications. 
+The large number of void catalogs in Gigantes allows many other scientific applications. 
