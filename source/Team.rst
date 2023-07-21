@@ -13,5 +13,5 @@ Team
 
  - Nico Hamaus (USM Munich)
 
- - Adrian E. Bayer (Berkeley)
+ - Adrian E. Bayer (Princeton University/Flatiron CCA)
 
