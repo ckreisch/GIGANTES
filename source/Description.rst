@@ -10,7 +10,7 @@ Information about VIDE, used to build Gigantes can be found here : `VIDE Wiki <h
 Provided statistics:
 Void center position (x,y,z---this is the volume-weighted barycenter, a.k.a. macrocenter), Void effective radius (Mpc/h), Void ID, void volume, redshift, ellipticity, density contrast, number of children (sub-voids), central density ...
 
-The video below shows an example of a Gigantes void together with the positions of the galaxies used to identify it. Credit: Wang et al. 2022, see `ArXiv <https://arxiv.org/abs/2212.06860>`__ and `ApJ <https://iopscience.iop.org/article/10.3847/1538-4357/aceaf6>`__ ; (for videos of more voids see : `here <https://bonnywang.github.io/#/Gallery>`__).
+The video below shows an example of a Gigantes void together with the positions of the galaxies used to identify it. Credit: Wang et al. 2022, see `ArXiv <https://arxiv.org/abs/2212.06860>`__ and `ApJ <https://iopscience.iop.org/article/10.3847/1538-4357/aceaf6>`__ ; (for videos of more voids see : `here <https://www.youtube.com/embed/nJyXYPPJaok>`__).
 
 .. image:: Wang.gif
    :width: 69 %
